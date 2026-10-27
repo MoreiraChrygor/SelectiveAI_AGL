@@ -1,40 +1,49 @@
-#SelectiveAI_AGL
+# SelectiveAI_AGL
 
-SelectiveAI_AGL é um sistema de rede neural desenvolvido do zero em C, utilizando o TCC (Tiny C Compiler). O projeto tem como objetivo selecionar, analisar e classificar dados a partir de informações fornecidas, utilizando algoritmos simples e uma abordagem voltada à experimentação com inteligência artificial.
+Sistema de rede neural desenvolvido do zero em C utilizando o **TCC (Tiny C Compiler)**, com foco na seleção, análise e classificação de dados por meio de algoritmos simples.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
-Desenvolver um sistema leve e eficiente capaz de processar dados e realizar classificações com base em padrões identificados durante a análise, explorando os fundamentos das redes neurais e do aprendizado de máquina por meio de uma implementação própria em C.
+Desenvolver um sistema leve e eficiente capaz de processar dados, identificar padrões e realizar classificações com base nas informações fornecidas, explorando os fundamentos da inteligência artificial e das redes neurais.
 
-⚙️ Características
-Implementação em C: desenvolvido com foco em simplicidade e controle sobre o código.
-Desenvolvimento do zero: estrutura construída sem depender necessariamente de frameworks de redes neurais.
-Seleção e classificação de dados: processamento de informações para auxiliar na identificação e categorização de dados.
-Algoritmos simples: abordagem voltada à compreensão e experimentação com técnicas de classificação.
-TCC: utilização do Tiny C Compiler para compilar e executar o projeto.
-🧠 Como funciona
+## ⚙️ Características
 
-O sistema utiliza dados de entrada como base para um processo de análise e classificação. A partir de um algoritmo simples, busca identificar características relevantes e determinar quais dados atendem aos critérios definidos.
+- **Implementação em C:** desenvolvido com foco em simplicidade e desempenho.
+- **Desenvolvimento do zero:** estrutura implementada sem depender necessariamente de frameworks de redes neurais.
+- **Seleção de dados:** identificação de informações relevantes de acordo com critérios definidos.
+- **Classificação de dados:** categorização de informações utilizando algoritmos simples.
+- **TCC:** utilização do Tiny C Compiler para compilação e execução do projeto.
 
-O fluxo geral do sistema pode ser representado pelas seguintes etapas:
+## 🧠 Como funciona
 
-Entrada de dados: recebimento das informações que serão analisadas.
-Processamento: aplicação do algoritmo sobre os dados fornecidos.
-Análise e seleção: identificação das informações relevantes de acordo com os critérios estabelecidos.
-Classificação: atribuição de categorias ou resultados conforme a lógica implementada.
-🛠️ Tecnologias utilizadas
-Linguagem: C
-Compilador: TCC (Tiny C Compiler)
-Abordagem: algoritmos de seleção e classificação de dados
-🚀 Objetivos do projeto
-Explorar a implementação de redes neurais em baixo nível.
-Compreender os fundamentos do processamento e da classificação de dados.
-Experimentar algoritmos simples aplicados à inteligência artificial.
-Desenvolver uma base para futuras melhorias e implementações mais avançadas.
-📌 Status
+O sistema recebe dados de entrada, processa as informações utilizando um algoritmo de seleção e classificação e gera resultados com base na lógica implementada.
 
-Projeto em desenvolvimento, com foco no aprendizado, na experimentação e na evolução de algoritmos de seleção e classificação de dados.
+O fluxo geral de funcionamento consiste em:
 
-📄 Licença
+1. **Entrada de dados:** recebimento das informações que serão analisadas.
+2. **Processamento:** aplicação do algoritmo sobre os dados fornecidos.
+3. **Seleção:** identificação das informações relevantes.
+4. **Classificação:** determinação das categorias ou dos resultados correspondentes.
 
-Consulte o arquivo LICENSE do repositório para obter informações sobre os termos de uso e distribuição do projeto.
+## 🛠️ Tecnologias utilizadas
+
+- **Linguagem:** C
+- **Compilador:** TCC (Tiny C Compiler)
+- **Área:** Inteligência Artificial
+- **Abordagem:** Seleção e classificação de dados
+
+## 🚀 Objetivos do projeto
+
+- Explorar a implementação de redes neurais em C.
+- Compreender os fundamentos da classificação de dados.
+- Experimentar algoritmos simples aplicados à inteligência artificial.
+- Desenvolver uma base para futuras melhorias e otimizações.
+- Aprimorar os conhecimentos em programação de baixo nível.
+
+## 📌 Status do projeto
+
+Em desenvolvimento.
+
+## 📄 Licença
+
+Consulte o arquivo `LICENSE` deste repositório para obter informações sobre os termos de uso e distribuição do projeto.
