@@ -1,4 +1,4 @@
-SelectiveAI_AGL
+#SelectiveAI_AGL
 
 SelectiveAI_AGL é um sistema de rede neural desenvolvido do zero em C, utilizando o TCC (Tiny C Compiler). O projeto tem como objetivo selecionar, analisar e classificar dados a partir de informações fornecidas, utilizando algoritmos simples e uma abordagem voltada à experimentação com inteligência artificial.
 
